@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me through my phone number (#780-318-2217)
 - 😄 Pronouns: He/Him (I dont mind anything)
-- ⚡ Fun fact: My first coding language was assembly (I forgot everything about it, but it made me write my first code ("hello world")
+- ⚡ Fun fact: I have no Fun fact.
 
 <!---
 CandleGod/CandleGod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
